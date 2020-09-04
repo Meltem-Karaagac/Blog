@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  background-size: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#pic {
+  display: inline-block;
+  vertical-align: top;
+  margin: 20px 20px;
+}
+
+#articleblog {
+  display: inline-block;
+  color: white;
+}
+
+#title,
+#article {
+  color: white;
+  width: 500px;
+}
+
+#container {
+  margin: 200px auto;
+  width: 1200px;
+  border: 3px solid white;
+}
